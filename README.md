@@ -3,8 +3,8 @@
 A C implementation of RC4 stream cipher for file encryption and decryption.
 
 ## The Files
-- `rc4 encrypt.c`: Encrypts `file.txt` using the RC4 stream cipher.
-- `rc4 decrypt.c`: Decrypts `file.txt` using the same secret key to restore the original plaintext.
+- `rc4 encrypt.c` Encrypts The `file.txt` using RC4 stream cipher.
+- `rc4 decrypt.c` Decrypts The `file.txt` using the same secret key to restore original plaintext.
 
 ## &Usages
 
